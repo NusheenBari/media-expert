@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="471.895" viewBox="0 0 512 471.895">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="audio-white" transform="translate(0 -20.052)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M358.414,21.311A15,15,0,1,0,346.4,48.8a226.1,226.1,0,0,1-.007,414.4,15,15,0,1,0,12.012,27.49,256.1,256.1,0,0,0,.007-469.377Z"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M362.413,137.053A15,15,0,0,0,342.4,159.4a129.6,129.6,0,0,1,0,193.188,15,15,0,0,0,20.01,22.352,159.6,159.6,0,0,0,0-237.892Z"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_3" data-name="Path 3" class="cls-1" d="M262.78,57.852a15,15,0,0,0-15.65,1.284L130.59,144.6H15a15,15,0,0,0-15,15V352.4a15,15,0,0,0,15,15H130.589l116.54,85.463A15,15,0,0,0,271,440.765V71.23A15,15,0,0,0,262.78,57.852ZM241,411.162,144.37,340.3a15,15,0,0,0-8.871-2.9H30V174.6H135.5a15.008,15.008,0,0,0,8.87-2.9L241,100.833Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

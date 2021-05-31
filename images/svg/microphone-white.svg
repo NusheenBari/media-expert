@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="368" viewBox="0 0 240 368">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="microphone-white" transform="translate(-64)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M184,0c-39.7,0-72,33.584-72,74.856V184c0,41.28,32.3,74.856,72,74.856S256,225.28,256,184V74.856C256,33.584,223.7,0,184,0Zm0,242.856c-28.288,0-51.688-22.184-55.424-50.856h110.84C235.688,220.68,212.288,242.856,184,242.856ZM240,176H128V74.856C128,42.4,153.12,16,184,16s56,26.4,56,58.856Z"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M296,144a8,8,0,0,0-8,8v32a104,104,0,0,1-208,0V152a8,8,0,0,0-16,0v32c0,63.464,49.56,115.448,112,119.592V352H136a8,8,0,0,0,0,16h96a8,8,0,0,0,0-16H192V303.592C254.44,299.448,304,247.464,304,184V152A8,8,0,0,0,296,144Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

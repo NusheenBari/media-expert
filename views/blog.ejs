@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/style/style.css">
+    <script src="../public/components/header.js"></script>
+    <script src="../public/components/footer.js"></script>
+
+    <title>Blog</title>
+</head>
+<body>
+    <!--Header-->
+    <header-component></header-component>
+    <div class="bgnd">
+   <ul class="circles">
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+   </ul>
+   <!--Blog container-->
+    <div class="container">
+        <section class="hero">
+            <h1>Media Expert Blogs</h1>
+        </section>   
+        
+        <section class="posts">
+            <div class="article">
+                <button class="blog-read-btn">New Post</button>
+            </div>
+            <% articles.forEach(article => { %>
+            <div class="article">
+               <h2><%= article.title %></h2> 
+               <p class="createdAt"><%= article.createdAt.toLocaleDateString() %></p> 
+               <article>
+                   <p><%= article.description %></p>
+                   <button class="blog-read-btn">Read More</button>
+                   <button class="blog-edit-btn">Edit</button>
+                   <button class="blog-delete-btn">Delete</button>
+               </article>
+              </div>  
+        
+        
+            <% }) %>
+            
+            
+        </section>
+    </div>
+    </div>
+    <!--Footer-->
+    <footer-component></footer-component>
+
+</body>
+</html>

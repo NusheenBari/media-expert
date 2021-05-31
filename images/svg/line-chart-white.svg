@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512.001" height="465.455" viewBox="0 0 512.001 465.455">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="line-chart-white" transform="translate(0 -23.273)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M506.35,80.7a19.4,19.4,0,0,0-27.43-.052L331.662,227.31,289.1,184.753a19.389,19.389,0,0,0-27.423,0L89.076,357.36A19.391,19.391,0,1,0,116.5,384.783L275.394,225.895l42.531,42.524a19.387,19.387,0,0,0,27.4.032l160.97-160.323A19.4,19.4,0,0,0,506.35,80.7Z"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M491.96,449.94H38.788V42.667A19.394,19.394,0,0,0,0,42.667V469.334a19.393,19.393,0,0,0,19.394,19.394H491.96a19.394,19.394,0,1,0,0-38.788Z"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_3" data-name="Path 3" class="cls-1" d="M492.606,74.344H347.152a19.394,19.394,0,1,0,0,38.788H473.213V239.2A19.393,19.393,0,1,0,512,239.192V93.738A19.393,19.393,0,0,0,492.606,74.344Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
